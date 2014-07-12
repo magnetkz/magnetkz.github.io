@@ -71,7 +71,7 @@ margin-bottom: 6px;
 }
 
 .soc_list li.lj a {
-background: url('images/soc_lj.gif') no-repeat;
+background: url('images/soc_lj_h.gif') no-repeat;
 }
 
 .soc_list li a {
@@ -84,39 +84,39 @@ padding-left: 29px;
 }
 
 .soc_list li.lj a:hover {
-background: url('images/soc_lj_h.gif') no-repeat;
+background: url('images/soc_lj.gif') no-repeat;
 }
 
 .soc_list li.vk a {
-background: url('images/soc_b.gif') no-repeat;
-}
-
-.soc_list li.vk a:hover {
 background: url('images/soc_b_h.gif') no-repeat;
 }
 
-.soc_list li.tw a {
-background: url('images/soc_tw.gif') no-repeat;
+.soc_list li.vk a:hover {
+background: url('images/soc_b.gif') no-repeat;
 }
 
-.soc_list li.tw a:hover {
+.soc_list li.tw a {
 background: url('images/soc_tw_h.gif') no-repeat;
 }
 
-.soc_list li.fb a {
-background: url('images/soc_fb.gif') no-repeat;
+.soc_list li.tw a:hover {
+background: url('images/soc_tw.gif') no-repeat;
 }
 
-.soc_list li.fb a:hover {
+.soc_list li.fb a {
 background: url('images/soc_fb_h.gif') no-repeat;
 }
 
+.soc_list li.fb a:hover {
+background: url('images/soc_fb.gif') no-repeat;
+}
+
 .soc_list li.gp a {
-background: url('images/soc_g.gif') no-repeat;
+background: url('images/soc_g_act.gif') no-repeat;
 }
 
 .soc_list li.gp a:hover {
-background: url('images/soc_g_act.gif') no-repeat;
+background: url('images/soc_g.gif') no-repeat;
 }
 
 .maps {
