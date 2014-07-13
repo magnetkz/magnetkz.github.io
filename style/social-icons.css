@@ -66,29 +66,29 @@
 .dribbble {background: url(../img/icons/social/dribbble.png) no-repeat;}
 .dropbox {background: url(../img/icons/social/dropbox.png) no-repeat;}
 .evernote {background: url(../img/icons/social/evernote.png) no-repeat;}
-.facebook {background: url(facebook.png) no-repeat;}
+.facebook {background: url(images/facebook.png) no-repeat;}
 .forrst {background: url(../img/icons/social/forrst.png) no-repeat;}
 .github {background: url(../img/icons/social/github.png) no-repeat;}
-.googleplus {background: url(googleplus.png) no-repeat;}
+.googleplus {background: url(images/googleplus.png) no-repeat;}
 .jolicloud {background: url(../img/icons/social/jolicloud.png) no-repeat;}
 .last-fm {background: url(../img/icons/social/last-fm.png) no-repeat;}
 .linkedin {background: url(../img/icons/social/linkedin.png) no-repeat;}
-.myspace {background: url(../img/icons/social/myspace.png) no-repeat;}
+.myspace {background: url(images/myspace.png) no-repeat;}
 .picasa {background: url(../img/icons/social/picasa.png) no-repeat;}
 .pintrest {background: url(../img/icons/social/pintrest.png) no-repeat;}
 .rss {background: url(../img/icons/social/rss.png) no-repeat;}
-.skype {background: url(skype.png) no-repeat;}
+.skype {background: url(images/skype.png) no-repeat;}
 .soundcloud {background: url(../img/icons/social/soundcloud.png) no-repeat;}
 .spotify {background: url(../img/icons/social/spotify.png) no-repeat;}
 .stumbleupon {background: url(../img/icons/social/stumbleupon.png) no-repeat;}
 .tumblr {background: url(../img/icons/social/tumblr.png) no-repeat;}
-.twitter {background: url(twitter.png) no-repeat;}
+.twitter {background: url(images/twitter.png) no-repeat;}
 .vimeo {background: url(../img/icons/social/vimeo.png) no-repeat;}
 .wordpress {background: url(../img/icons/social/wordpress.png) no-repeat;}
 .xing {background: url(../img/icons/social/xing.png) no-repeat;}
 .yahoo {background: url(../img/icons/social/yahoo.png) no-repeat;}
-.youtube {background: url(youtube.png) no-repeat;}
-.vkontakte {background: url(vkontakte.png) no-repeat;}
+.youtube {background: url(images/youtube.png) no-repeat;}
+.vkontakte {background: url(images/vkontakte.png) no-repeat;}
 
 /* Social Icons - big
 =================================================================== */
@@ -212,7 +212,7 @@
     background-color: #77ba2f;
 }
 .social-bookmarks li.facebook a {
-    background: url(../img/icons/social2/facebook.png) no-repeat 0 0;
+    background: url(images/facebook-contact.png) no-repeat 0 0;
 }
 .social-bookmarks li.facebook a:hover {
     background-color: #3b5998;
@@ -386,7 +386,7 @@
     background-color: #3a5976;
 }
 .social-bookmarks li.twitter a {
-    background: url(../img/icons/social2/twitter.png) no-repeat 0 0;
+    background: url(images/twitter-contact.png) no-repeat 0 0;
 }
 .social-bookmarks li.twitter a:hover {
     background-color: #48c4d2;
@@ -416,7 +416,7 @@
     background-color: #c41200;
 }
 .social-bookmarks li.youtube a {
-    background: url(../img/icons/social2/youtube.png) no-repeat 0 0;
+    background: url(images/youtube-contact.png) no-repeat 0 0;
 }
 .social-bookmarks li.youtube a:hover {
     background-color: #f45750;
